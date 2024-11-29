@@ -6,6 +6,7 @@ Proje, API entegrasyonu ile gerçek verilere dayalı içerik sunar ve responsive
 
 ## 🚀 Özellikler
 <br/>
+
 ✨ API Entegrasyonu: Şarkılar, sanatçılar ve albümler gibi veriler API'den dinamik olarak çekiliyor.
 
 ✨ Ana Sayfa Tasarımı: Spotify'ın modern ve kullanıcı dostu arayüzüne benzer bir ana sayfa.
@@ -21,8 +22,11 @@ Proje, API entegrasyonu ile gerçek verilere dayalı içerik sunar ve responsive
 ## 🛠️ Kullanılan Teknolojiler
 <br/>
 ✨ HTML5: Yapısal tasarım için.
+
 ✨ CSS3/SCSS: Görsel tasarım ve stiller için.
+
 ✨ JavaScript: Dinamik ve etkileşimli özellikler için.
+
 ✨  API: Veriler dinamik olarak çekiliyor.
 
 ## 📸 Ekran Görüntüsü
