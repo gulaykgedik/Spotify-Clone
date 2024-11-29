@@ -21,6 +21,7 @@ Proje, API entegrasyonu ile gerçek verilere dayalı içerik sunar ve responsive
 
 ## 🛠️ Kullanılan Teknolojiler
 <br/>
+
 ✨ HTML5: Yapısal tasarım için.
 
 ✨ CSS3/SCSS: Görsel tasarım ve stiller için.
